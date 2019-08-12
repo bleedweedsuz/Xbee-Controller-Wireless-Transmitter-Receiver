@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SuzDuino_WirelessReceiver", "SuzDuino_WirelessReceiver.vcproj", "{E9A5B237-E5FD-4102-B142-A136CF2584AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9A5B237-E5FD-4102-B142-A136CF2584AE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E9A5B237-E5FD-4102-B142-A136CF2584AE}.Debug|Win32.Build.0 = Debug|Win32
+		{E9A5B237-E5FD-4102-B142-A136CF2584AE}.Release|Win32.ActiveCfg = Release|Win32
+		{E9A5B237-E5FD-4102-B142-A136CF2584AE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

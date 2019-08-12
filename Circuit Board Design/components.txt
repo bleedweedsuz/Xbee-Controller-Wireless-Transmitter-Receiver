@@ -1,0 +1,5 @@
+1. Xbee
+	-Transmitter
+	-Receiver 
+
+2. Atmega328 Chip (you can look that up in internet for basic arduino ckt design)
